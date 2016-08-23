@@ -1,4 +1,3 @@
-layout_spectrum: 0.7664578731637448
 typography_spectrum: 0.14112701872363687
 color:
   brandStrength: 0.4833295496646315
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.7664578731637448
 name: Transit Academy
+title: Transit Academy
